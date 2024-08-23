@@ -1,9 +1,9 @@
 [submodule "engine"]
 	path = engine
-	url = https://gitlab.com/minds/engine.git
+	url = https://gitlab.com/brainr386/engine.git
 [submodule "front"]
 	path = front
-	url = https://gitlab.com/minds/front.git
+	url = https://gitlab.com/brainr386/front.git
 [submodule "sockets"]
 	path = sockets
-	url = https://github.com/minds/sockets.git 
+	url = https://github.com/kenanlv/sockets.git 
